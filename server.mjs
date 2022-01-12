@@ -43,7 +43,7 @@ const LaunchRequestHandler = {
             clientName: "saylani class",
         }).save();
 
-        const speakOutput = 'Welcome to kababjees, I am your virtual assistant. you can ask for the menu';
+        const speakOutput = 'Welcome to Shinwari Restaurant, I am your virtual assistant. you can ask for the menu';
         const reprompt = 'I am your virtual assistant. you can ask for the menu';
 
         return handlerInput.responseBuilder
